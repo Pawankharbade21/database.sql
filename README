@@ -1,0 +1,6 @@
+Employee Management System (SQL Project)
+
+Files Included:
+1. database.sql  – Contains all table creation scripts
+2. sample_data.sql – Sample test data
+3. queries.sql – All required SQL queries (basic to advanced)
